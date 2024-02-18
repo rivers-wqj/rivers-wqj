@@ -7,7 +7,7 @@
 一个追风逐月和捡贝壳的[Vagrant](https://rivers-wqj.github.io/RiBlog/)
 
 
-欢迎找我玩[捏](https://maps.app.goo.gl/iRoCoWsXpb2m9gf5A)。
+欢迎找我玩[捏](https://maps.app.goo.gl/iRoCoWsXpb2m9gf5A)：p
 
 
 <!---
